@@ -2,6 +2,7 @@ numpy
 scipy
 matplotlib
 pandas
+visions==0.7.4
 ydata-profiling
 streamlit
 streamlit-pandas-profiling
