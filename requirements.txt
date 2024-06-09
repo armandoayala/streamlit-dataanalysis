@@ -2,8 +2,8 @@ numpy
 scipy
 matplotlib
 pandas
-visions==0.7.4
-ydata-profiling
+visions==0.7.5
+ydata-profiling==4.6.3
 streamlit
 streamlit-pandas-profiling
 openpyxl
