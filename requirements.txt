@@ -1,6 +1,6 @@
 numpy
 scipy
-matplotlib
+matplotlib==3.8.4
 pandas
 ydata-profiling
 streamlit
